@@ -32,7 +32,7 @@ h3{
     color: #003051;
 }
  
-p{
+p, span{
     font-family: 'Sarabun', sans-serif;
     font-size: 18px;
     font-weight: normal;
@@ -406,7 +406,21 @@ footer ul li{
     padding: 2%;
 }
 
+.about_content div article div{
+    justify-content: left;
+}
 
+.about_content div article img{
+    height: 50px;
+    padding: 2%;
+}
+.about_content div article span{
+    font-weight: bold;
+}
+
+.about_content button{
+    margin: 1% 3%;
+}
 
 
 
