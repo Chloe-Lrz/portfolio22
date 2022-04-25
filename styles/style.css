@@ -532,10 +532,6 @@ footer ul li{
     border: none;
 }
 
-.brrrdeaux a{
-    background-image: url("/assets/images/brrrdeaux.png");
-}
-
 .apollo a{
     background-image: url("/assets/images/apollo.png");
 }
@@ -552,12 +548,8 @@ footer ul li{
     background-image: url("/assets/images/ecodunum.png");
 }
 
-.ciel a{
-    background-image: url("/assets/images/ciel.png");
-}
-
-.grosbec a{
-    background-image: url("/assets/images/grosbec.png");
+.tehtris a{
+    background-image: url("/assets/images/tehtris.png");
 }
 
 .laswell a {
