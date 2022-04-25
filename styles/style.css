@@ -454,6 +454,9 @@ footer ul li{
     padding: 20px;
     margin-top: 10%;
     position:relative;
+    margin-right: 30%;
+    max-width: 500px;
+    text-align: right;
 }
 
 
